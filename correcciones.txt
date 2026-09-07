@@ -1,0 +1,9 @@
+Correcciones:
+
+- El proyecto no presenta la estructura propuesta.
+- El programa principal debiera llamarse __main__.py
+- El uso de "Goodbye World!" estaba en el ejemplo solo por ejemplo del uso del finally.
+- Si el entero 2 es menor que el entero 1 el resultado no puede ser 0; la longitud de 
+la lista es 0 y no existe el promedio.
+
+Nota: Aprobado (6 seis)
