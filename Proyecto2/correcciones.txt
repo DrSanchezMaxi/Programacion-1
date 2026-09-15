@@ -4,4 +4,4 @@ Correcciones:
 tengas un README.md y 62 casos de test. Es correcto, lo mismo que el programa
 pero naturalmente dudo que lo hayas hecho a mano.
 
-Nota: 
+Nota: Aprobado (10 diez)
