@@ -1,0 +1,6 @@
+Correcciones:
+
+1.- El proyecto debía implementar dos programas diferentes.
+2.- La función join debiera estar implementada con funciones auxiliares
+3.- Los errores de programa_join y programa_sort debieran ser manejados con excepciones y no retornando enteros.
+4.- 
